@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/Squagalings/demo/blogs](https://my-json-server.typicode.com/Squagalings/demo/blogs)
+[https://my-json-server.typicode.com/Squagalings/demo](https://my-json-server.typicode.com/Squagalings/demo)
 
 ## Use your own data
 
